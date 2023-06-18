@@ -1,1 +1,2 @@
 # ObjectLocalization-CaltechBirdsDataset
+In this project, I implemented object localization using the caltech_birds2010 dataset. The model I created is capable of identifying the location of Caltech birds in a photo. To build the model, I utilized ImageNetV2 for feature extraction and employed regression techniques for bounding box localization. The project was implemented using TensorFlow as the primary tool.
